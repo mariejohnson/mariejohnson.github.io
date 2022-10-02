@@ -2,7 +2,7 @@
 title: Welcome to my website
 layout: page
 aside: true
-feature_image: "skiphotocrop.jpg"
+feature_image: "assets/images/IMG_5030.JPG"
 feature_text: |
   ## Hello, world
 ---
