@@ -1,0 +1,70 @@
+# Set theme
+remote_theme: daviddarnes/alembic
+
+# File excludes
+exclude:
+- README.md
+- Gemfile
+- Gemfile.lock
+
+# Set plugins
+plugins:
+- jekyll-default-layout
+- jekyll-feed
+- jekyll-include-cache
+- jekyll-mentions
+- jekyll-paginate
+- jekyll-redirect-from
+- jekyll-remote-theme
+- jekyll-seo-tag
+- jekyll-sitemap
+- jemoji
+
+# Site settings
+locale: "en-US"
+url: "https://mariejohnson.github.io/"
+baseurl: ""
+description: "PhD student, Systems Ecology, University of Montana"
+permalink: pretty
+search: true
+logo: "/assets/images/avatar.png"
+title: "Marie Johnson"
+
+# Personal
+author:
+    name: "Marie Johnson"
+    avatar: "/assets/images/logo.png"
+    bio: "PhD student, Systems Ecology, University of Montana"
+    location: "Missoula, Montana"
+github_username:  "mariejohnson"
+
+social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
+  GitHub: https://github.com/fbunt
+
+# Pagination
+paginate: 5
+paginate_path: blog/page:num
+
+# Header nav
+navigation_header:
+- title: Home
+  url: /
+- title: About
+  url: /about/
+- title: Blog
+  url: /blog/
+
+# Footer nav
+navigation_footer:
+- title: Back to top
+  url: "#top"
+
+# Collections
+collections:
+  posts:
+    title: Posts
+    output: true
+    description: "My thoughts and ideas"
+    feature_text: |
+      Welcome to my blog
+    feature_image: "/assets/images/blog_feature.jpg"
