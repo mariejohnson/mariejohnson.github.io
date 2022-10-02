@@ -1,4 +1,3 @@
-
 ---
 title: Welcome to my website
 layout: page
