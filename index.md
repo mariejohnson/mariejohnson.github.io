@@ -7,4 +7,4 @@ feature_text: |
   ## Hello, world
 ---
 
-This is still a work in progress so please bear with me.
+Welcome! This site is currently under contruction - check back for updates soon!
