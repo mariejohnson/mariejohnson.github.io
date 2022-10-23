@@ -34,12 +34,12 @@ title: "Marie Johnson"
 author:
     name: "Marie Johnson"
     avatar: "/assets/images/logo.png"
-    bio: "PhD student, Systems Ecology, University of Montana"
+    bio: "PhD student, Systems Ecology, University of Montana, NASA FINESST Fellow"
     location: "Missoula, Montana"
 github_username:  "mariejohnson"
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
-  GitHub: https://github.com/fbunt
+  GitHub: https://github.com/mariejohnson
 
 # Pagination
 paginate: 5
