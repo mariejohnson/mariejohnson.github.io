@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Sample code I have written
+title: Check out the sample code I have written:
 ---
 
 [Summer heat](https://github.com/mariejohnson/portfolio/blob/master/UM/summerHeat.md) at the University of Montana using Land Surface Temperature from ECOSTRESS
-<img src="https://github.com/mariejohnson/mariejohnson.github.io/blob/main/assets/images/summerheatMT.png" >
+<img src="https://mariejohnson.github.io/assets/images/summerheatMT.png" >
 
 Interested in extracting wildfire boundaries using Google Earth Engine? Check out this [code](https://code.earthengine.google.com/e9b1dab5b2339a291ab64ccc7da5bf2b)
 
