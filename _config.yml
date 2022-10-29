@@ -51,10 +51,8 @@ navigation_header:
   url: /
 - title: About
   url: /about/
-- title: Code
+- title: Projects
   url: /code/
-- title: Data Visualizations
-  url: /visualizations/
 
 # Footer nav
 navigation_footer:
