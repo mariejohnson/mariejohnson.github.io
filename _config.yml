@@ -52,7 +52,7 @@ navigation_header:
 - title: About
   url: /about/
 - title: Projects
-  url: /code/
+  url: /projects/
 
 # Footer nav
 navigation_footer:
