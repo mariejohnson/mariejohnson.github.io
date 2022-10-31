@@ -1,5 +1,6 @@
 ---
 layout: page
+aside2: true
 title: Check out the sample code I have written:
 ---
 
