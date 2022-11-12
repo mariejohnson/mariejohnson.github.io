@@ -53,6 +53,8 @@ navigation_header:
   url: /about/
 - title: Projects
   url: /projects/
+- title: Projects Blog
+  url: /blog/
 
 # Footer nav
 navigation_footer:
